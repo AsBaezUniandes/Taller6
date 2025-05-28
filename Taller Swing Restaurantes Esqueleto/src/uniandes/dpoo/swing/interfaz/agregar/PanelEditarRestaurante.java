@@ -67,7 +67,7 @@ public class PanelEditarRestaurante extends JPanel
     	add(cal, BorderLayout.WEST);
     	add(new JPanel(), BorderLayout.EAST);
     	add(vis, BorderLayout.AFTER_LAST_LINE);
-    	
+    	 
 
     }
 
